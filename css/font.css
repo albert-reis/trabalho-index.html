@@ -1,0 +1,63 @@
+.subtituloEsquerdo{
+    margin: 20px 0px 0 250px ;
+    color: rgba(233, 4, 126, 0.877);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+.subtituloDireito{
+    margin: 20px 0px 0 80px ;
+    color: rgba(233, 4, 126, 0.877);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+.paragrafo-esquerdo{
+    margin: 0 0 0 58px;
+    width: 300px;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #585353;
+    font-weight: lighter;
+    text-align: right;
+    float: left;
+}
+
+.paragrafo-direito{
+    margin: 0 0 0 80px;
+    width: 350px;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #585353;
+    font-weight: lighter;
+    float: left;
+}
+
+.colocar-direita{
+    float: left;
+    margin-right: px;
+    
+}
+
+.paragrafo-contato{
+    margin: 18px 0 0 4px;    
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #585353;
+    font-weight: lighter;
+    float: right;
+
+}
+
+.paragrafo-titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 15px;
+    color: dimgray;
+
+}
+
+

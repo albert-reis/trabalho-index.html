@@ -1,0 +1,36 @@
+.perfil{
+    margin: 5% 0 0 15%;
+    height: 15vh;
+    border: 2px solid #585353;
+    border-radius: 50%;
+    float: left;
+}
+
+.titulo-nome{
+    margin: 5% 0 0 3%;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #585353;
+    font-weight: lighter;
+    float: left;
+    
+}
+
+.titulo-nome2{
+    margin: 5% 0 0 1%;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: deeppink;
+    font-weight: bold;
+    float: left;
+    
+}
+
+.sub-perfil{
+    margin: 80px 0 0 -295px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    font-family: 15px;
+    color: dimgray;
+    
+}

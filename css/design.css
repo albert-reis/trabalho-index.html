@@ -1,0 +1,26 @@
+html{
+    margin: 50px 250px 50px 250px;
+    border: 2px solid #585353;
+   
+}
+
+.body{
+    margin-left: 20px;
+    
+}
+
+.obj{
+    margin:15px 0 0 80px;
+    float: left;
+    border-radius: 30px;
+    height: 11.8vh;
+    width: 1.5vw;
+    background-color: rgba(233, 4, 126, 0.877);
+}
+
+.img-email{
+    margin:6px 0 0 2px;
+    width: 1.3vw;
+    height: 2.3vh;
+    
+}
